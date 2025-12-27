@@ -2915,11 +2915,6 @@ pkg-dir@^4.1.0:
   dependencies:
     find-up "^4.0.0"
 
-plugin-react@^0.0.1-security:
-  version "0.0.1-security"
-  resolved "https://registry.npmjs.org/plugin-react/-/plugin-react-0.0.1-security.tgz"
-  integrity sha512-+p20kpGJ1lkjI903pfStB5+rstbWUAtk+HzkfEiKzgPlKJjuTT+kYwVJGPMjpbqKQtdzoeO3gqVAlVmx1Ys0Dg==
-
 postcss-import@^15.1.0:
   version "15.1.0"
   resolved "https://registry.npmjs.org/postcss-import/-/postcss-import-15.1.0.tgz"
