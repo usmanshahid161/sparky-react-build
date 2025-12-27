@@ -18,8 +18,7 @@ const EngineSection = () => {
             The Accelon Healthcare <span className="text-gradient">Engine</span>
           </h2>
           <p className="text-lg text-primary-foreground/70 max-w-2xl mx-auto">
-            A unified platform connecting every aspect of your revenue cycle, 
-            from patient intake to final payment — all powered by intelligent automation.
+            Our operating framework isn’t static; it’s a living ecosystem built to scale. It adapts and expands with you—whether you’re a single clinic optimizing flow or a multi-region network pursuing global ambitions.
           </p>
         </div>
 

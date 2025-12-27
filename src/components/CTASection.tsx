@@ -21,7 +21,7 @@ const CTASection = () => {
             — once and for all.
           </p>
           <p className="text-sm text-accent-foreground/60 mb-8">
-            Start the conversation and see the Accelon difference today.
+            Your teams and patients will feel the difference immediately.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -29,7 +29,7 @@ const CTASection = () => {
               size="xl"
               className="bg-primary text-primary-foreground hover:bg-primary/90 shadow-xl"
             >
-              Schedule a Demo
+              Speak with Our Solutions Team Today
               <ArrowRight className="ml-2 w-5 h-5" />
             </Button>
             <Button 
@@ -37,8 +37,7 @@ const CTASection = () => {
               size="xl"
               className="border-accent-foreground/30 text-accent-foreground hover:bg-accent-foreground/10"
             >
-              <Phone className="mr-2 w-5 h-5" />
-              Call Us: +1 (800) 555-0199
+              Book Your Free Operational Health Scan
             </Button>
           </div>
         </div>

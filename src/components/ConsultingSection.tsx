@@ -33,9 +33,7 @@ const ConsultingSection = () => {
             <span className="text-gradient">Compliance & Operational Growth</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            Our healthcare consulting services combine deep industry expertise 
-            with actionable insights to drive sustainable improvements across 
-            your organization.
+            Navigate accreditation and compliance with confidence. Our consultants deliver gap analyses, CDI training, and RCM improvement programs tailored to local payer rules and regulatory  bodies across your markets—so operational excellence becomes a habit, not a milestone.
           </p>
         </div>
 

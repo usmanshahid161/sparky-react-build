@@ -4,24 +4,19 @@ const WhyChooseSection = () => {
   const reasons = [
     {
       icon: Shield,
-      title: "Compliance-First Approach",
-      description: "Every solution built with regulatory compliance at its core, protecting your organization from exposure.",
+      title: "Born Native. Built for Scale",
+      description: "Our teams live and breathe the regulatory landscapes of the MENA region and key global markets. We have deep knowledge of every local payer’s rule, ensuring every claim is compliant by design. This multinational expertise is baked into everything we do.",
     },
     {
       icon: Zap,
-      title: "No Upfront Financial Outlay, Just Performance-Based Fees",
-      description: "Our performance-based model aligns our success with yours — we only succeed when you do.",
+      title: "We Drive Financial Thrive, Not Just Operational Survival.",
+      description: "Our goal is to make you more profitable. We are never an added cost. Our model is built on delivering a clear, measurable ROI—higher collections, reduced administrative hassle, and significant cost savings. We measure success in your gains.",
     },
     {
       icon: Users,
-      title: "The Power of \"And\": Deep Healthcare Operations Know-How + Tech",
-      description: "We combine decades of healthcare expertise with cutting-edge technology for comprehensive solutions.",
-    },
-    {
-      icon: Award,
-      title: "Proven Track Record",
-      description: "500+ healthcare providers trust Accelon Health to optimize their revenue cycle and operations.",
-    },
+      title: "The Power of \"And\": Deep Expertise AND Cutting-Edge Tech.",
+      description: "You don’t have to choose between a seasoned consulting or BPO firm and a flashy AI startup. acrossBorders delivers both. Our certified RCM team are empowered by our proprietary AI, creating an unbeatable combination of expertise and unmatched speed.",
+    }
   ];
 
   return (

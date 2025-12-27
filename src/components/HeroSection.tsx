@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Play } from "lucide-react";
-import heroBg from "@/assets/hero-bg.jpg";
+import heroBg from "@/assets/homepageBg.jpeg";
 
 const HeroSection = () => {
   return (
@@ -18,7 +18,7 @@ const HeroSection = () => {
       <div className="relative z-10 container-custom section-padding text-center md:text-left">
         <div className="max-w-3xl">
           <p className="text-accent font-semibold uppercase tracking-widest text-sm mb-4 animate-fade-up">
-            Healthcare Revenue Cycle Management
+            #1 Healthcare Solutions Partner
           </p>
           
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground leading-tight mb-6 animate-fade-up" style={{ animationDelay: '0.1s' }}>
@@ -30,20 +30,18 @@ const HeroSection = () => {
           </h1>
           
           <p className="text-lg md:text-xl text-primary-foreground/80 mb-8 leading-relaxed animate-fade-up" style={{ animationDelay: '0.2s' }}>
-            Transform your healthcare operations with intelligent automation, 
-            strategic consulting, and comprehensive revenue cycle management 
-            that drives measurable results.
+            Leap beyond limits. Accelon Health fuses full-cycle RCM, BPO, consulting, and technology solutions to unlock revenue, ensure compliance, and scale operational excellence across Saudi Arabia, GCC, USA & Egypt. Book a demo.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start animate-fade-up" style={{ animationDelay: '0.3s' }}>
             <Button variant="hero" size="xl">
-              Schedule a Demo
+              Unlock Your Growth Story
               <ArrowRight className="ml-2 w-5 h-5" />
             </Button>
-            <Button variant="heroOutline" size="xl">
-              <Play className="mr-2 w-5 h-5" />
-              Watch Video
-            </Button>
+            {/*<Button variant="heroOutline" size="xl">*/}
+            {/*  <Play className="mr-2 w-5 h-5" />*/}
+            {/*  Watch Video*/}
+            {/*</Button>*/}
           </div>
           
           {/* Trust Indicators */}

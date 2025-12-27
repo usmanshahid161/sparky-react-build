@@ -1,26 +1,26 @@
-import { Bot, FileSearch, ClipboardCheck, BarChart2 } from "lucide-react";
+import { NotebookPen, Codepen, Shield, AudioLines } from "lucide-react";
 
 const AutomationSection = () => {
   const features = [
     {
-      icon: Bot,
-      title: "Seamless RPA",
-      description: "Robotic Process Automation streamlines repetitive tasks with 99.9% accuracy",
+      icon: NotebookPen,
+      title: "Accelon Note",
+      description: "Faster clinical notes and pre-visit abstracts with zero disruption to patient care.",
     },
     {
-      icon: FileSearch,
-      title: "Smart Claims",
-      description: "AI-powered claim scrubbing reduces errors before submission",
+      icon: Codepen,
+      title: "Accelon Code",
+      description: "Autonomous coding at 95%+ accuracy, delivering consistent, 1000X faster turnarounds.",
     },
     {
-      icon: ClipboardCheck,
-      title: "Auto Verification",
-      description: "Real-time eligibility and pre-authorization checks",
+      icon: Shield,
+      title: "Accelon Audit",
+      description: "Re-submission checks that prevent rejections before they happen.",
     },
     {
-      icon: BarChart2,
-      title: "Predictive Analytics",
-      description: "Machine learning identifies trends and forecasts revenue",
+      icon: AudioLines,
+      title: "Accelon Voice",
+      description: "24/7 patient communication automation in Arabic/English across 20+ dialects.",
     },
   ];
 
@@ -32,8 +32,7 @@ const AutomationSection = () => {
             Quiet Automation, <span className="text-gradient">Loud Results</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Our automation works silently in the background, delivering powerful 
-            results without disrupting your existing workflows.
+            Invisible, on-purpose automation that lifts every workflow
           </p>
         </div>
 

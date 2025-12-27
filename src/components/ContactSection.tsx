@@ -47,7 +47,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-foreground">Call Us</h3>
-                  <p className="text-muted-foreground">+1 (800) 555-0199</p>
+                  <p className="text-muted-foreground">+966 59 869 8532</p>
                 </div>
               </div>
 
@@ -56,8 +56,18 @@ const ContactSection = () => {
                   <MapPin className="w-6 h-6 text-accent" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-foreground">Visit Us</h3>
-                  <p className="text-muted-foreground">123 Healthcare Blvd, Suite 500<br />San Francisco, CA 94102</p>
+                  <h3 className="font-semibold text-foreground">Visit KSA Office (Riyadh)</h3>
+                  <p className="text-muted-foreground">13279 Al-Amir Mamdouh bin Abdulaziz<br />Riyadh 7273, KSA</p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-4">
+                <div className="w-12 h-12 rounded-lg bg-accent/10 flex items-center justify-center shrink-0">
+                  <MapPin className="w-6 h-6 text-accent" />
+                </div>
+                <div>
+                  <h3 className="font-semibold text-foreground">Visit USA Office</h3>
+                  <p className="text-muted-foreground">13279 Al-Amir Mamdouh bin Abdulaziz<br />Riyadh 7273, KSA</p>
                 </div>
               </div>
             </div>
